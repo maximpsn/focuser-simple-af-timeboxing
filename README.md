@@ -1,4 +1,4 @@
-### **Focuser** — simple timeboxing (pomodoro) timer for Windows.
+### **Focuser** — simple timeboxing timer for Windows.
 
 - **Focus and chill phases.** The timer switches between them on its own and plays a sound when it's time to switch.
 - **Lives in the tray.** Stays out of your way; the tray icon shows which phase you're in.
